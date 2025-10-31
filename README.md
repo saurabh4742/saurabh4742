@@ -51,13 +51,13 @@
 
 <p align="center">
   <a href="https://show-off-theta.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh4742&repo=YOUR_REPO_NAME_FOR_SHOWOFF&theme=tokyonight&show_owner=true" alt="ShowOff Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh4742&repo=ShowOFF&theme=tokyonight&show_owner=true" alt="ShowOff Project" />
   </a>
-  <a href="https://github.com/saurabh4742/YOUR_REPO_NAME_FOR_TALKIFY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh4742&repo=YOUR_REPO_NAME_FOR_TALKIFY&theme=tokyonight&show_owner=true" alt="Talkify Project" />
+  <a href="https://github.com/saurabh4742/Talkify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh4742&repo=Talkify&theme=tokyonight&show_owner=true" alt="Talkify Project" />
   </a>
-  <a href="https://github.com/saurabh4742/YOUR_REPO_NAME_FOR_CLASSIFIER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh4742&repo=YOUR_REPO_NAME_FOR_CLASSIFIER&theme=tokyonight&show_owner=true" alt="Image Classifier Project" />
+  <a href="https://github.com/saurabh4742/faang-job-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh4742&repo=faang-job-tracker&theme=tokyonight&show_owner=true" alt="FAANG Job Tracker Project" />
   </a>
 </p>
 

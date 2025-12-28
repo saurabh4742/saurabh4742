@@ -1,9 +1,6 @@
 <h1 align="center">Hey, I'm Saurabh Anand 👋</h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B93D&width=435&lines=Tech+Explorer;Code.+Create.+Inspire.;Always+learning+something+new" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://github.com/saurabh4742">
